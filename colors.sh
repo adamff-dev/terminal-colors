@@ -22,7 +22,7 @@ BOLD_GRAY="\e[1;30m"
 
 # // USAGE: //
 # echo -e $CYAN
-# echo "I'm a yellow text"
+# echo "I'm a cyan text"
 # echo -e "$GREEN I'm a green text"
 
 # [ YOUR COLORFUL CODE HERE ]
